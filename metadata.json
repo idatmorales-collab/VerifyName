@@ -1,0 +1,6 @@
+{
+  "name": "Macrumo Studio",
+  "description": "Plataforma interna privada para la gestión, creación y validación de nombres comerciales de productos con el módulo Naming AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
