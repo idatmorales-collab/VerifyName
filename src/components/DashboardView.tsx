@@ -397,3 +397,5 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
     </div>
   );
 };
+
+export default DashboardView;
